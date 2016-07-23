@@ -1,2 +1,0 @@
-Always namespace the entire javascript file. If it is not namespaced, it will not be used.
-Make the namespace the same name as your bot.

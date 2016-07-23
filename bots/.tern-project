@@ -1,0 +1,12 @@
+{
+  "libs": [
+    "browser"
+    "jQuery"
+  ],
+  "loadEagerly": [
+    "ant.js"
+  ],
+  "plugins": {
+    "node-express": {}
+  }
+}
